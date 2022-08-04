@@ -1,0 +1,52 @@
+{
+  "kind": "collectionType",
+  "collectionName": "dongtais",
+  "info": {
+    "singularName": "dongtai",
+    "pluralName": "dongtais",
+    "displayName": "Dongtai",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "author": {
+      "type": "string"
+    },
+    "avatar": {
+      "type": "string"
+    },
+    "posttime": {
+      "type": "string"
+    },
+    "poster": {
+      "type": "string"
+    },
+    "time": {
+      "type": "string"
+    },
+    "watchcount": {
+      "type": "string"
+    },
+    "danmu": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "share": {
+      "type": "string"
+    },
+    "commentcount": {
+      "type": "string"
+    },
+    "like": {
+      "type": "string"
+    },
+    "comment": {
+      "type": "string"
+    }
+  }
+}

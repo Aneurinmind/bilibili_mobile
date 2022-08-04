@@ -1,0 +1,49 @@
+{
+  "kind": "collectionType",
+  "collectionName": "videos",
+  "info": {
+    "singularName": "video",
+    "pluralName": "videos",
+    "displayName": "Video",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "time": {
+      "type": "string"
+    },
+    "videocount": {
+      "type": "string"
+    },
+    "danmu": {
+      "type": "biginteger"
+    },
+    "poster": {
+      "type": "string"
+    },
+    "pubtime": {
+      "type": "string"
+    },
+    "share": {
+      "type": "string"
+    },
+    "coin": {
+      "type": "string"
+    },
+    "like": {
+      "type": "string"
+    },
+    "star": {
+      "type": "string"
+    }
+  }
+}
